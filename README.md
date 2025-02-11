@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in R programming related to subsetting data frames using logical conditions. The `bug.R` file contains code that attempts to subset a data frame based on a condition involving the AND operator (`&`), but produces incorrect results. The `bugSolution.R` file provides the corrected code and explanation.
